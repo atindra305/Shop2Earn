@@ -11,3 +11,6 @@
 4. [Atindra Shekhar](https://github.com/atindra305)
 5. [Sadhil Chhabra](https://github.com/sadhilchhabra)
 6. Pranjal Gupta
+
+### Pitch Video
+https://youtu.be/hv2aFh595qM
