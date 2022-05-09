@@ -5,7 +5,7 @@
 
 
 ### Team Members
-1. [Asfahan Shah](https://github.com/e19cse116as)
+1. [Asfahan Shah](https://github.com/a-shah1200)
 2. Aniket Purkayastha 
 3. [Saksham Khandelwal](https://github.com/sakshamkhandelwal123)
 4. [Atindra Shekhar](https://github.com/atindra305)
